@@ -1,0 +1,1 @@
+document.write('Se han enviado los datos correctamente');

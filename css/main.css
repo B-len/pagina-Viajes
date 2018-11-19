@@ -1,0 +1,352 @@
+body{
+    margin: 0px;
+}
+.arriba{
+    background: url(../img/fondoArriba.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: #669997;
+    height: 790px;
+    width: 100%;
+
+}
+.ltop{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    top: 20px;
+
+}
+#prueba{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 40%;
+    margin-right: 20%;
+}
+.imag{
+    float: left;
+    margin-top: 20px;
+}
+.logoImg{
+    width: 140px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.letraLogo{
+    position: absolute;
+    color:black;
+    left: 50px;
+    font-size: 16px;
+    top: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.sociales{
+    position: absolute;
+    top: 20px;
+    right: 2px;
+    left:87%;
+}
+#tt{
+    height: 30px;
+}
+#faceb{
+    height:30px;
+}
+#ws{
+    height: 30px;
+}
+#is{
+    height: 30px;
+}
+#li{
+    height: 30px;
+}
+#yt{
+    height: 30px;
+}
+#ti1{
+    position: absolute;
+    left:27%;
+    top: 90px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    : red;
+}
+
+
+.mas:link{
+    text-align: center;
+    color: black;
+    position:absolute;
+    top: 400px;
+    left: 50%;
+    background-color: yellow;
+    height: 60px;
+    width: 250px;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+.mas:visited{
+    color: black;
+}
+nav{
+    width: 100%;
+   position: fixed;
+    z-index: 2;
+    height: 100px;
+}
+
+#principal{
+    display: flex;
+
+    flex-wrap: wrap;
+   justify-content: center;
+
+}
+
+
+.buenosA{
+    margin-top: 60px;
+    margin-left: 20px;
+    background: url(../img/buenos_aires.JPG);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 350px;
+    width: 400px;
+    background-color: #669997;
+
+
+}
+.mexico{
+    margin-top: 60px;
+    margin-left: 20px;
+    background: url(../img/ciudad_mexico.JPG);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 350px;
+    width: 400px;
+    background-color: #669997;
+}
+
+.madrid{
+    margin-top: 60px;
+    margin-left: 20px;
+    background: url(../img/madrid.JPG);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 350px;
+    width: 400px;
+    background-color: #669997;
+}
+
+.descuento{
+background-color: midnightblue;
+height: 50px;
+font-size: 40px;
+color:white;
+padding-left: 40px;
+}
+.precio{
+    background-color:yellow;
+    position: absolute;
+    font-size: 40px;
+    height: 70px;
+    width: 130px;
+    margin-top: 0px;
+    margin-left: 270px;
+    text-align: center;
+    padding-top: 15px;
+    z-index: 1;
+}
+.nombreCiudades {
+    position: absolute;
+    font-size:25px;
+    height: 30px;
+    margin-top: 310px;
+    margin-left: 150px;
+
+}
+
+.secunadario{
+    display: flex;
+
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.newYork{
+    margin-top: 60px;
+    margin-left: 20px;
+    background: url(../img/new_york.JPG);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 350px;
+    width: 400px;
+    background-color: #669997;
+}
+.tokyo{
+    margin-top: 60px;
+    margin-left: 20px;
+    background: url(../img/tokyo.JPG);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 350px;
+    width: 400px;
+    background-color: #669997;
+
+}
+.beijin{
+    margin-top: 60px;
+    margin-left: 20px;
+    background: url(../img/beijing.JPG);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 350px;
+    width: 400px;
+    background-color: #669997;
+
+}
+
+.bajado {
+    background-color:#A18FB9
+}
+
+.tercero{
+    margin-top: 100px;
+    background: url(../img/tresImg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 900px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #669997;
+}
+
+.textoQuienesSomos{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 230px;
+    width: 450px;
+    background-color: white;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+.tisub{
+    font-size: 50px;
+    text-decoration: underline;
+    text-decoration-color:yellow;
+    color: #122b40;
+}
+.textoQS{
+    font-size: 25px;
+    word-wrap: break-word;
+    hyphens: initial;
+}
+
+.descubre{
+    height: 70px;
+    font-size: 30px;
+    background-color: #122b40;
+    width: 250px;
+    padding-top: 30px;
+    margin-left: 85px;
+}
+.descubrir{
+    text-decoration: none;
+    color: yellow;
+    padding-left: 55px;
+}
+
+
+
+.cuarto{
+    display: flex;
+    height: 750px;
+    margin-left: 230px;
+    flex-wrap: wrap;
+}
+.mapa{
+    margin-top: 60px;
+    width: 550px;
+    height: 600px;
+    margin-bottom: 70px;
+    margin-right: 60px;
+}
+.formuMensaje{
+    margin-top: 99px;
+    margin-bottom: 70px;
+    font-size: 21px;
+    width:600px;
+    font-family: 'Roboto', sans-serif;
+}
+#nombre{
+    height: 30px;
+    width: 250px;
+    padding-left: 20px;
+    margin-right: 30px;
+}
+#email{
+
+    height: 30px;
+    width: 250px;
+    padding-left: 20px;
+}
+#telefono{
+    height: 30px;
+    width: 250px;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+#ciudad{
+    height: 30px;
+    width: 250px;
+    padding-left: 20px;
+}
+#mensaje{
+    width: 560px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 125px;
+}
+.plis{
+    font-size: 13px;
+}
+.enviamensaje{
+    height: 70px;
+    width:200px;
+    font-weight: bold;
+    margin-top: 30px;
+    background-color: yellow;
+    font-family: 'Roboto', sans-serif;
+
+}
+.finalUno{
+    background-color: midnightblue;
+    /*height: 200px;*/
+    color: white;
+    padding-top: 30px;
+    padding-left: 20px;
+    margin-top: 120px;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    padding-right: 35px;
+}
